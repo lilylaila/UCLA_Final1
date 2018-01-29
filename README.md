@@ -25,4 +25,4 @@ Given that we seek a regression model a good naive benchmark would be to use eit
 
     EVALUATION METRICS
 
-Given that this is a regression task, we can measure the success of our model using the $R^2$ metric, the Mean Absolute Error, or the Mean Squared Error.
+Given that this is a regression task, we can measure the success of our model using the R^2 metric, the Mean Absolute Error, or the Mean Squared Error.
